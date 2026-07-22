@@ -1,4 +1,3 @@
-
 site_name: Cristian - Portafolio de Automatización
 site_description: Técnico en Automatización Industrial | PLC | IoT | Control de Procesos
 site_author: Cristian
@@ -20,10 +19,8 @@ theme:
 nav:
   - Inicio: index.md
   - Proyectos:
-     - Cooling Colmena: proyectos/cooling-colmena.md
-     - Instalación Eléctrica Domiciliaria: proyectos/instalacion-electrica-domiciliaria.md
-     - Instalación Solar Residencial: proyectos/instalacion-solar-residencial.md
-     - Próximamente: proyectos/proximamente.md
+    - Cooling Colmena: proyectos/cooling-colmena.md
+    - Próximamente: proyectos/proximamente.md
   - Habilidades: habilidades.md
   - Contacto: contacto.md
 
@@ -43,6 +40,9 @@ markdown_extensions:
   - admonition
   - toc:
       permalink: true
+
+extra_css:
+  - css/custom.css
 
 extra:
   social:

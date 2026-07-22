@@ -1,10 +1,9 @@
 
 
-
 # 👋 Hola, soy Cristian
 
 **Técnico en Automatización Industrial**  
- Melipilla, Región Metropolitana  
+ Tucapel , Los Angeles  
 🎓 Titulación 2027 | Futuro Ingeniero en Automatización y Robótica
 
 ---
@@ -16,6 +15,18 @@ Especializarme en automatización industrial, programación de PLC (Mitsubishi, 
 ---
 
 ## 💡 Proyectos Destacados
+
+### ⚡ Instalación Eléctrica Domiciliaria
+- **Diseño:** Circuito completo conforme a normativa SEC
+- **Componentes:** Breakers, GFCI, SPD, cableado
+- **Resultado:** Seguridad y eficiencia eléctrica
+- [Ver detalles →](proyectos/instalacion-electrica-domiciliaria.md)
+
+### ☀️ Instalación Solar Residencial Off-Grid
+- **Potencia:** 1240Wp | Batería 2550Wh | Inversor 2kW
+- **Ubicación:** Tucapel, Los Ángeles
+- **Resultado:** 100% autonomía energética
+- [Ver detalles →](proyectos/instalacion-solar-residencial.md)
 
 ### 🐝 Sistema de Control Térmico para Colmena
 - **Tecnologías:** NodeMCU ESP8266, DHT22, Relé, IoT
@@ -32,17 +43,17 @@ Especializarme en automatización industrial, programación de PLC (Mitsubishi, 
 
 | Categoría | Tecnologías |
 |-----------|-------------|
-| **Controladores** | NodeMCU, Arduino, PLC (en aprendizaje) |
+| **Controladores** | NodeMCU,Esp32,  Arduino, PLC (en aprendizaje) |
 | **Sensores** | DHT22, HC-SR04, Sensores industriales |
 | **Actuadores** | Relés, Contactores, Variadores (básico) |
-| **Software** | Python, Arduino IDE, QElectroTech, Git |
-| **Eléctrico** | Tableros de control, Cableado industrial |
+| **Software** | Python, arduino IDE, QElectroTech, Git |
+| **Eléctrico** | Tableros de control, Cableado industrial, Instalaciones Domiciliarias, Instalaciones Solares Residenciales Monofacicas. |
 
 ---
 
 
 ## 📫 Contacto
 
-- 📧 Email: cchavezj@it.ucsc.cl 
+- 📧 Email: cristian.chavez.jara@gmx.com 
 - 💼 LinkedIn: [linkedin.com/in/cristian-chavez-3004b1277](https://linkedin.com/in/cristian-chavez-3004b1277>
 - 🐙 GitHub: [github.com/Bl4ckj4ck84](https://github.com/Bl4ckj4ck84)

@@ -2,10 +2,11 @@
 
 ¿Tienes un proyecto de automatización? ¡Hablemos!
 
-- 📧 Email: tu-email@ejemplo.com
-- 💼 LinkedIn: [Tu perfil](https://linkedin.com/in/tu-perfil)
+- 📧 Email: cristian.chavez.jara@gmx.com
+- 💼 LinkedIn: [Tu perfil](https://linkedin.com/in/cristian-chavez)
 - 🐙 GitHub: [github.com/BL4ckj4ck84](https://github.com/BL4ckj4ck84)
-- 📍 Ubicación: Melipilla, Región Metropolitana
+- 📍 Ubicación: Los Angeles, Región Bio Bio
+
 
 **Disponibilidad:** Prácticas profesionales 2027 | Proyectos freelance
 
