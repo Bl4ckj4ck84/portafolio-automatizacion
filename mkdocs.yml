@@ -1,0 +1,29 @@
+site_name: Cristian - Portafolio de Automatización
+site_description: Técnico en Automatización Industrial | PLC | IoT | Control de Procesos
+site_author: Cristian
+site_url: https://Bl4ckj4ck84.github.io/portafolio-automatizacion
+
+theme:
+  name: material
+  language: es
+  palette:
+    primary: blue
+    accent: blue
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+
+nav:
+  - Inicio: index.md
+  - Proyectos:
+    - Cooling Colmena: proyectos/cooling-colmena.md
+    - Próximamente: proyectos/proximamente.md
+  - Habilidades: habilidades.md
+  - Contacto: contacto.md
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - tables
+  - admonition
