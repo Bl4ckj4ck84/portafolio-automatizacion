@@ -1,0 +1,57 @@
+site_name: Cristian - Portafolio de Automatización
+site_description: Técnico en Automatización Industrial | PLC | IoT | Control de Procesos
+site_author: Cristian
+site_url: https://bl4ckj4ck84.github.io/portafolio-automatizacion
+
+theme:
+  name: material
+  language: es
+  palette:
+    primary: deep orange
+    accent: amber
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - content.code.copy
+    - navigation.top
+
+nav:
+  - Inicio: index.md
+  - Proyectos:
+    - Cooling Colmena: proyectos/cooling-colmena.md
+    - Próximamente: proyectos/proximamente.md
+  - Habilidades: habilidades.md
+  - Contacto: contacto.md
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.mark
+  - attr_list
+  - tables
+  - admonition
+  - toc:
+      permalink: true
+
+extra_css:
+  - css/custom.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/BL4ckj4ck84
+      name: GitHub
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/tu-perfil
+      name: LinkedIn
+
+copyright: |
+  © 2026 Cristian Chávez - Técnico en Automatización Industrial
