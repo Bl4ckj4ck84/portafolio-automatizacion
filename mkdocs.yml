@@ -19,6 +19,7 @@ theme:
 
 nav:
   - Inicio: index.md
+  - Sobre Mí: sobre-mi.md
   - Proyectos:
      - Cooling Colmena: proyectos/cooling-colmena.md
      - Instalación Eléctrica Domiciliaria: proyectos/instalacion-electrica-domiciliaria.md
