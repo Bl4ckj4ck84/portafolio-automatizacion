@@ -1,7 +1,6 @@
-
 site_name: Cristian - Portafolio de Automatización
 site_description: Técnico en Automatización Industrial | PLC | IoT | Control de Procesos
-site_author: Cristian Ch.
+site_author: Cristian
 site_url: https://bl4ckj4ck84.github.io/portafolio-automatizacion
 
 theme:
@@ -20,11 +19,8 @@ theme:
 nav:
   - Inicio: index.md
   - Proyectos:
-     - Cooling Colmena: proyectos/cooling-colmena.md
-     - Instalación Eléctrica Domiciliaria: proyectos/instalacion-electrica-domiciliaria.md
-     - Instalación Solar Residencial: proyectos/instalacion-solar-residencial.md
-     - Próximamente: proyectos/proximamente.md
-  - Certificaciones: certificaciones.md
+    - Cooling Colmena: proyectos/cooling-colmena.md
+    - Próximamente: proyectos/proximamente.md
   - Habilidades: habilidades.md
   - Contacto: contacto.md
 
@@ -45,6 +41,9 @@ markdown_extensions:
   - toc:
       permalink: true
 
+extra_css:
+  - css/custom.css
+
 extra:
   social:
     - icon: fontawesome/brands/github
@@ -53,9 +52,6 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/tu-perfil
       name: LinkedIn
-
-extra_css:
-  - css/industrial.css
 
 copyright: |
   © 2026 Cristian Chávez - Técnico en Automatización Industrial

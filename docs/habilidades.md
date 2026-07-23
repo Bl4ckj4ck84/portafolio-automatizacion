@@ -39,6 +39,16 @@
 - ✅ Arduino IDE
 - ✅ MkDocs
 
+
+## Informática y Sistemas
+- ✅ Redes TCP/IP y configuración de redes industriales
+- ✅ Programación Python (automatización, análisis de datos)
+- ✅ Sistemas operativos Linux/Windows
+- ✅ Bases de datos (MySQL, PostgreSQL)
+- ✅ Soporte técnico y mantenimiento de hardware
+- ✅ Virtualización y servidores
+
+
 ## Proyectos Realizados
 - Sistema de cooling para colmena (IoT)
 - Cálculo e instalación de sistemas solares

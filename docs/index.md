@@ -2,17 +2,48 @@
 
 # 👋 Hola, soy Cristian
 
-**Técnico en Automatización Industrial**  
- Tucapel , Los Angeles  
+**Técnico en Automatización Industrial** con formación en Informática  
+📍 Tucapel, Los Ángeles  
 🎓 Titulación 2027 | Futuro Ingeniero en Automatización y Robótica
 
 ---
 
-##  Objetivo Profesional
+## 💡 ¿Qué me diferencia?
 
-Especializarme en automatización industrial, programación de PLC (Mitsubishi, Siemens), integración de sistemas HMI y optimización de procesos productivos. Busco aplicar mis conocimientos en proyectos de modernización industrial y mejora continua.
+Combino conocimientos de **electricidad industrial**, **automatización** y 
+**tecnología de la información** para crear soluciones integrales:
+
+- 🔌 **Hardware:** Instalaciones eléctricas, tableros, sensores
+-  **Control:** PLCs, HMI, SCADA, IoT
+- 💻 **Software:** Python, redes, bases de datos, Linux
 
 ---
+
+## 🛠️ Habilidades Técnicas
+
+### Automatización Industrial
+- PLC (Mitsubishi, Siemens - en aprendizaje)
+- Electricidad residencial e industrial
+- Energía solar fotovoltaica
+- Sistemas de control IoT
+
+### Informática y Sistemas
+- Redes TCP/IP y comunicaciones industriales
+- Programación Python para automatización
+- Linux/Windows Server
+- Bases de datos SQL
+
+---
+
+## 🎯 Objetivo Profesional
+
+Especializarme en automatización industrial integrando conocimientos de 
+electricidad, redes industriales y sistemas informáticos. Busco aplicar 
+mis competencias técnicas en proyectos de modernización industrial, 
+IoT y mejora continua de procesos.
+
+---
+
 
 ## 💡 Proyectos Destacados
 
@@ -50,7 +81,15 @@ Especializarme en automatización industrial, programación de PLC (Mitsubishi, 
 | **Eléctrico** | Tableros de control, Cableado industrial, Instalaciones Domiciliarias, Instalaciones Solares Residenciales Monofacicas. |
 
 ---
+## 📜 Certificaciones Destacadas
 
+- **Google Cybersecurity Professional Certificate** (2025)
+- **Google Data Analytics Professional Certificate** (2025)
+- **Full Stack Python** - SENCE (452 horas, 2024)
+- **Desarrollo Backend Python** - Talento Futuro
+- **Google AI Essentials** (2025)
+
+[Ver todas las certificaciones →](certificaciones.md)
 
 ## 📫 Contacto
 
