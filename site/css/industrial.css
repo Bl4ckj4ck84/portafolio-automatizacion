@@ -1,0 +1,20 @@
+/* Tema Industrial */
+:root {
+  --industrial-orange: #e65100;
+  --industrial-yellow: #ffc107;
+  --industrial-gray: #424242;
+  --industrial-dark: #1a1a1a;
+}
+
+.md-header {
+  background: linear-gradient(135deg, var(--industrial-dark) 0%, var(--industrial-gray) 100%);
+  border-bottom: 3px solid var(--industrial-orange);
+}
+
+.md-nav__link--active {
+  color: var(--industrial-orange) !important;
+}
+
+.md-typeset h1, .md-typeset h2 {
+  color: var(--industrial-orange);
+}

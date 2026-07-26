@@ -1,0 +1,121 @@
+/* Tema Industrial - Personalización */
+
+:root {
+  --industrial-orange: #e65100;
+  --industrial-yellow: #ffc107;
+  --industrial-gray: #424242;
+  --industrial-dark: #1a1a1a;
+  --industrial-blue: #0277bd;
+}
+
+/* NAVBAR MÁS GRANDE */
+.md-header {
+  min-height: 80px;  /* Más alto que el default (46px) */
+  padding: 10px 0;
+  background: linear-gradient(135deg, var(--industrial-dark) 0%, var(--industrial-gray) 100%);
+  border-bottom: 4px solid var(--industrial-orange);
+  box-shadow: 0 4px 12px rgba(230, 81, 0, 0.3);
+}
+
+.md-header__inner {
+  max-width: 100%;
+}
+
+/* Logo y título más grandes */
+.md-header__title {
+  font-size: 1.5rem;  /* Más grande */
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+/* Navegación más grande */
+.md-tabs {
+  background-color: var(--industrial-dark);
+  border-top: 2px solid var(--industrial-orange);
+}
+
+.md-tabs__link {
+  font-size: 1.1rem;  /* Texto más grande */
+  padding: 12px 20px;  /* Más padding */
+  font-weight: 600;
+}
+
+.md-tabs__item {
+  height: 60px;  /* Tabs más altos */
+}
+
+/* Hover effects */
+.md-tabs__link:hover {
+  color: var(--industrial-orange);
+  background-color: rgba(230, 81, 0, 0.1);
+}
+
+/* Color activo */
+.md-tabs__item--active .md-tabs__link {
+  color: var(--industrial-yellow);
+  border-bottom: 3px solid var(--industrial-orange);
+}
+
+/* FONDO DE PÁGINA CON PATRÓN INDUSTRIAL */
+body {
+  background-color: var(--industrial-dark);
+  background-image: 
+    linear-gradient(rgba(26, 26, 26, 0.9), rgba(26, 26, 26, 0.9)),
+    url('../assets/industrial-bg.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+/* Contenedor principal */
+.md-container {
+  background-color: rgba(255, 255, 255, 0.95);
+  border-radius: 8px;
+  box-shadow: 0 8px 32px rgba(230, 81, 0, 0.2);
+  margin: 20px auto;
+  max-width: 1200px;
+}
+
+/* Títulos con estilo industrial */
+.md-typeset h1 {
+  color: var(--industrial-orange);
+  font-size: 2.5rem;
+  border-left: 6px solid var(--industrial-yellow);
+  padding-left: 15px;
+}
+
+.md-typeset h2 {
+  color: var(--industrial-blue);
+  border-bottom: 3px solid var(--industrial-orange);
+  padding-bottom: 10px;
+}
+
+/* Sidebar más visible */
+.md-sidebar {
+  background-color: rgba(66, 66, 66, 0.1);
+  border-radius: 8px;
+  padding: 10px;
+}
+
+/* Botones y enlaces */
+.md-typeset a {
+  color: var(--industrial-blue);
+  text-decoration: underline;
+  text-decoration-color: var(--industrial-orange);
+}
+
+/* Tablas con estilo industrial */
+.md-typeset table {
+  border: 2px solid var(--industrial-gray);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+.md-typeset th {
+  background-color: var(--industrial-orange);
+  color: white;
+  font-weight: bold;
+}
+
+.md-typeset tr:nth-child(even) {
+  background-color: rgba(230, 81, 0, 0.05);
+}
